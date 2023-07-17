@@ -1,8 +1,3 @@
-// --== CS400 File Header Information ==--
-// Name: William Mao
-// Email: wmao24@wisc.edu
-// Notes to Grader: <optional extra notes>
-
 import java.util.LinkedList;
 import java.util.NoSuchElementException;
 

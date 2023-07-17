@@ -1,10 +1,3 @@
-// --== CS400 File Header Information ==--
-// Name: William Mao
-// Email: wmao24@wisc.edu
-// Notes to Grader: dataset is from https://www.kaggle.com/ookawayoshimi/pokemon-data-swordshield
-// Japanese name column was removed
-//This Project uses the Hash table data structure
-
 import java.util.Scanner;
 import java.io.File;
 import java.io.FileNotFoundException;

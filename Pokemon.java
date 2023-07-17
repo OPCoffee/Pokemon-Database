@@ -1,8 +1,3 @@
-// --== CS400 File Header Information ==--
-// Name: William Mao
-// Email: wmao24@wisc.edu
-// Notes to Grader: <optional extra notes>
-
 // This class models a Pokedex/Pokebank Entry where each Key (Pokemon name) could retrive this
 // information
 public class Pokemon {
